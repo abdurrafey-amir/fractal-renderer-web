@@ -3,6 +3,9 @@ body {
     color: white;
 }
 
+h2 {
+    text-align: center;
+}
 canvas {
     border: 1px solid white;
 }
